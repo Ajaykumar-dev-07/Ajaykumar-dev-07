@@ -50,8 +50,8 @@ I enjoy writing tutorials and sharing my learning experiences with the developer
 ## 📬 How to Contact Me
 
 - 📧 Email: [your.email@example.com](mailto:jayakodiajay7@gmail.com)
-- 💼 LinkedIn: [Ajaykumar-dev-07](https://linkedin.com/in/Ajaykumar-dev-07)
-- 🐦 Twitter: [@Ajaykumar-dev-07](https://twitter.com/Ajaykumar-dev-07)
+- 💼 LinkedIn: [Ajaykumar-dev-07](https://linkedin.com/in/ajay-kumar-b-144420251)
+- 🐦 Twitter: [@Ajaykumar-dev-07](https://x.com/ak_mrclean)
 
 ---
 
