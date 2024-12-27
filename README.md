@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** with a f
 
 - 👨‍💻 I am a **Full-Stack Developer** specializing in **Flask** and **React**.
 - 💡 I'm constantly learning new technologies to stay up-to-date in the ever-evolving web development world.
-- 🌱 I’m currently diving deeper into **cloud computing**, **machine learning**, and **task automation**.
+- 🌱 I’m currently diving deeper into **Artificial Intelligence**, **machine learning**, and **task automation**.
 - 🎯 My goal is to collaborate on open-source projects and contribute to innovative software development.
 
 ---
@@ -49,9 +49,9 @@ I enjoy writing tutorials and sharing my learning experiences with the developer
 
 ## 📬 How to Contact Me
 
-- 📧 Email: [your.email@example.com](mailto:jayakodiajay7@gmail.com)
-- 💼 LinkedIn: [Ajaykumar-dev-07](https://linkedin.com/in/ajay-kumar-b-144420251)
-- 🐦 Twitter: [@Ajaykumar-dev-07](https://x.com/ak_mrclean)
+- 📧 Email: [jayakodiajay7@gmail.com](mailto:jayakodiajay7@gmail.com)
+- 💼 LinkedIn: [ajay-kumar-b-144420251](https://linkedin.com/in/ajay-kumar-b-144420251)
+- 🐦 Twitter: [ak_mrclean](https://x.com/ak_mrclean)
 
 ---
 
