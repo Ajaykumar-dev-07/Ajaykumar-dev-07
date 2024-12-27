@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** with a f
 
 ## 🚀 About Me
 
-- 👨‍💻 I am a **Full-Stack Developer** specializing in **Flask** and **React**.
+- 👨‍💻 I am a **Full-Stack Developer** specializing in **Flask** ,**Django** and **React**.
 - 💡 I'm constantly learning new technologies to stay up-to-date in the ever-evolving web development world.
 - 🌱 I’m currently diving deeper into **Artificial Intelligence**, **machine learning**, and **task automation**.
 - 🎯 My goal is to collaborate on open-source projects and contribute to innovative software development.
