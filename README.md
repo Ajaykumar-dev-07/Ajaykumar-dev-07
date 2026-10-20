@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/ai-application-engineer-banner.svg" alt="Ajay Kumar B — AI Application Engineer" width="100%" />
+<img src="./ai-application-engineer-banner.svg" alt="Ajay Kumar B — AI Application Engineer" width="100%" />
 
 ### AI Application Engineer · Python · LLMs · RAG · AI Agents
 
