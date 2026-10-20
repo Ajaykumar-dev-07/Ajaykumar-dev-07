@@ -120,17 +120,9 @@ class AIApplicationEngineer:
 
 ## `04` / How I Think About AI Systems
 
-```mermaid
-flowchart TD
-    A[User request] --> B[Application / API]
-    B --> C[Context + data retrieval]
-    C -.-> K[(Relevant knowledge)]
-    C --> D[LLM + tools]
-    D --> E[Structured result]
-    E --> F[Validation + business rules]
-    F --> G[Useful, observable output]
-    F -. failure / low confidence .-> H[Retry · fallback · human review]
-```
+<div align="center">
+  <img src="./ai-system-flow.svg" alt="AI system flow: request, retrieval, LLM and tools, structured result, validation, output, with retry and human review on failure" width="100%" />
+</div>
 
 **Guiding principles**
 
