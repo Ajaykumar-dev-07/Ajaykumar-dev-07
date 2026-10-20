@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Ajay Kumar B — AI Application Engineer</title>
+  <desc id="desc">A dark, technical banner about building useful AI applications with LLMs, retrieval, tools, and reliable systems.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#07111f"/><stop offset="55%" stop-color="#0b1830"/><stop offset="100%" stop-color="#10284a"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity=".9"/><stop offset="100%" stop-color="#818cf8" stop-opacity=".15"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#8ab4d9" stroke-opacity=".08" stroke-width="1"/></pattern>
+    <filter id="glow"><feGaussianBlur stdDeviation="5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1200" height="360" rx="20" fill="url(#bg)"/><rect width="1200" height="360" rx="20" fill="url(#grid)"/>
+  <g fill="none" stroke="url(#line)" stroke-width="2">
+    <path d="M760 54H870V102H950V64H1085"/><path d="M720 150H810V205H910V166H1020V225H1160"/><path d="M785 285H870V250H1000V292H1100V265H1170"/>
+    <path d="M900 28V70M1040 64V105M850 205V240M1110 225V265"/>
+    <circle cx="870" cy="54" r="5" fill="#38bdf8"/><circle cx="950" cy="102" r="5" fill="#818cf8"/><circle cx="810" cy="150" r="5" fill="#38bdf8"/><circle cx="910" cy="205" r="5" fill="#818cf8"/><circle cx="1020" cy="166" r="5" fill="#38bdf8"/><circle cx="1000" cy="292" r="5" fill="#818cf8"/>
+  </g>
+  <g opacity=".95" filter="url(#glow)">
+    <circle cx="1000" cy="135" r="44" fill="#0b2442" stroke="#38bdf8" stroke-opacity=".65"/><circle cx="1000" cy="135" r="29" fill="none" stroke="#818cf8" stroke-opacity=".8"/>
+    <path d="M984 135h32M1000 119v32M989 124l22 22M1011 124l-22 22" stroke="#7dd3fc" stroke-width="2" stroke-linecap="round"/>
+  </g>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <text x="72" y="83" fill="#7dd3fc" font-size="15" font-weight="700" letter-spacing="4">AI • APPLICATIONS • ENGINEERING</text>
+    <text x="68" y="151" fill="#f8fafc" font-size="48" font-weight="750">Ajay Kumar B.</text>
+    <text x="72" y="194" fill="#cbd5e1" font-size="25" font-weight="600">AI Application Engineer</text>
+    <text x="72" y="238" fill="#94a3b8" font-size="17">LLMs  /  RAG  /  AI Agents  /  APIs  /  Automation</text>
+    <path d="M72 274H365" stroke="#38bdf8" stroke-width="3" stroke-linecap="round"/>
+    <text x="72" y="311" fill="#cbd5e1" font-size="15">Build systems that turn AI capability into useful software.</text>
+  </g>
+</svg>
