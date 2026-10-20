@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./ai-application-engineer-banner.svg" alt="Ajay Kumar B — AI Application Engineer" width="100%" />
+<!-- <img src="./ai-application-engineer-banner.svg" alt="Ajay Kumar B — AI Application Engineer" width="100%" /> -->
 
 ### AI Application Engineer · Python · LLMs · RAG · AI Agents
 
@@ -91,6 +91,11 @@ class AIApplicationEngineer:
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+### AI coding assistants & agentic development
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
+[![Claude Code Skills](https://img.shields.io/badge/Claude_Code_Skills-Learn_Documentation-6C47FF?style=flat-square)](https://code.claude.com/docs/en/skills)
 
 **AI ecosystem**
 
